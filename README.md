@@ -1,5 +1,5 @@
 # Cloudfare-2020-Remote-Summer-Internship-Program
-Product Mangement
+Product Management
 
 Gaming industry has been booming for the past few years, with an estimated net worth of around US$ 152 billon (Kaplan, 2019). In addition, due to the current Covid-19 pandemic, there are more people turning to gaming to either alleviate stress or even to occupy themselves due to various movement control measures imposed by different government. According to Statista, from March 16 to March 22 2020, like-for-like games sales have increased by 44%, further suggesting that many people were turning to video gaming to keep them entertained through the crisis (Gough, 2020). Inadvertently, the increased traffic demand to the game servers will no doubt require more resources and time to maximise its output and efficiency.
 
