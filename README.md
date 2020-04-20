@@ -13,13 +13,21 @@ Cloudfare Workers has strongly emphasised the importance of ease of use for deve
 
 In conclusion, I am optimistic about the future of cloud gaming and how Cloudfare would be able to play a part in it. Various solutions have to be deployed in order for cloud gaming to really take off and become mainstream. 
  
+
 References
 
 2018 Video Game Industry Statistics, Trends & Data - The Ultimate List. (2020, March 12). Retrieved April 18, 2020, from https://www.wepc.com/news/video-game-statistics/#online-gaming
+
 Boddy, Z. (2020, March 16). Cloud gaming services are backing up as player counts mount due to COVID-19. Retrieved April 18, 2020, from https://www.windowscentral.com/cloud-gaming-services-are-beginning-back-coronavirus-forces-people-stay-home
+
 Brandon, J. (2007, May 9). When multiple data centers make sense. Retrieved April 19, 2020, from https://www.computerworld.com/article/2545064/when-multiple-data-centers-make-sense.html
+
 Cloudfare. (n.d.). Cloudflare Workers®. Retrieved April 19, 2020, from https://workers.cloudflare.com/
+
 GameDesigning. (2020, April 1). The 6 Best Programming Languages for Game Design. Retrieved from https://www.gamedesigning.org/career/programming-languages/
+
 Gough, C. (2020, April 7). Increase in video games sold due to coronavirus worldwide 2020. Retrieved April 18, 2020, from https://www.statista.com/statistics/1109977/video-game-sales-covid/
+
 Kaplan, O. (2019, August 22). Mobile gaming is a $68.5 billion global business, and investors are buying in. Retrieved April 18, 2020, from https://techcrunch.com/2019/08/22/mobile-gaming-mints-money/
+
 Loftus, A. (2019, December 30). Overcoming the infrastructure and connectivity challenges of cloud gaming. Retrieved April 18, 2020, from https://www.computerweekly.com/feature/Overcoming-the-infrastructure-and-connectivity-challenges-of-cloud-gaming
